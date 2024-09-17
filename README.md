@@ -1,6 +1,6 @@
 # LegalDocs
 
-![LegalDocs Banner](https://link-to-your-screenshot-or-logo.com)
+![LegalDocs Banner](https://blogger.googleusercontent.com/img/a/AVvXsEhVh4X-OZkJVt2i7yGnxQRwHTz_IiM1UhoW-v9WMLcW4Tq8f-PXNRTp-ci2eImddFxXJV-VXAZrWRNZ6xVvCcUuQHSieLR64wr-i97THF3i-V_YD67653yxhPG4KU2Ua-2wxHoNx-CaV3JWphzQK0g1vb3cix-SBF_SR3xhIiOzPrlKazGsTeCiNi38NGDJ)
 
 ## Introduction
 
